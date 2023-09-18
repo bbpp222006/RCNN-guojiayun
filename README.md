@@ -12,4 +12,8 @@
 
 4. RCNN_output.py 输出结果
 
+## opencv
+
+opencv文件夹下面有个jupyter notebook，里面是大作业的opencv部分，可以直接运行
+
 结构很简单，数据集过大，就不在这个项目里放了，用原项目的就行
